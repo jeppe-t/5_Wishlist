@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+Project
 
-You can use the [editor on GitHub](https://github.com/jeppe-t/5_Wishlist/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The project name is Wishlist.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It is a web application which can be accessed by proving this URL: <> in your browser. The user will be taken to a login page, where they will be able to create an account. Once an account is created the user will be able to login and use the features of the program.
 
-### Markdown
+The user will be able to create different wishlistes, where they can add products and eventually finish the wishlist.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The program is programmed in Java, are database driven and follows the concept of MVC structure.
 
-```markdown
-Syntax highlighted code block
+Our main focus frontend has been making UX with a dynamic flow during browsing the webpages, creating and modifiying wishlistes. Our main focus backend has been structuring our code and using OOP.
 
-# Header 1
-## Header 2
-### Header 3
+Prerequisites
 
-- Bulleted
-- List
+Before you begin, ensure you have met the following requirements:
 
-1. Numbered
-2. List
+You have a Linux, windows or macOS machine.
+You have installed the latest version of Java.
+You are connection to the Internet.
+You have read this README file.
+Installing
 
-**Bold** and _Italic_ and `Code` text
+To install Wishlist, follow these steps:
 
-[Link](url) and ![Image](src)
-```
+Linux, windows and macOS:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+No installation requirements, but must meet the prerequisites as listed above. 
+Using
 
-### Jekyll Themes
+To use Wishlist, follow these steps:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jeppe-t/5_Wishlist/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Fill in the provided URL in your browser.
+Contributing to Wishlist
 
-### Support or Contact
+To contribute to Wishlist, follow these steps:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Fork this repository.
+Create a branch: git checkout -b <branch_name>.
+Make your changes and commit them: git commit -m '<commit_message>'
+Push to the original branch: git push origin <project_name>/<location>
+Create the pull request.
+Alternatively see the GitHub documentation on creating a pull request .
+
+Contributors
+
+Thanks to the following people who have contributed to this project:
+
+@ChristopherDN 👊🏻👨🏻‍💻
+@Geofery 👊🏻👨🏻‍💻
+@jeppe-t 👊🏻👨🏻‍💻
+You might want to consider using something like the All Contributors specification and its emoji key.
+
+Contact
+
+If you want to contact us you can reach us at KEA.
+
+License
+
+This project uses the following license: Wishlist_KEA_Project.
